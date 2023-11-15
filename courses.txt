@@ -1,4 +1,8 @@
 DevOps master course
 AWS Master course
 Terraform Certification Training
+<<<<<<< HEAD
 Kuberenetes Training
+=======
+Python Scripting
+>>>>>>> refs/remotes/origin/main
