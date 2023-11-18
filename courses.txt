@@ -6,3 +6,4 @@ Python Scripting
 Jenkins Training
 Java Training
 logic to send email
+python code to send welcome msg
