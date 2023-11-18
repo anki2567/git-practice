@@ -5,3 +5,4 @@ Kuberenetes Training
 Python Scripting
 Jenkins Training
 Java Training
+logic to send email
