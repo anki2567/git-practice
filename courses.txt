@@ -8,3 +8,4 @@ Java Training
 logic to send email
 python code to send welcome msg
 writing code to send admissions
+code to provide information about fee
